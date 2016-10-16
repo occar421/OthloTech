@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OthloTech -学生クリエイティブ集団-</title>
-    <link>http://www.othlo.tech/index.xml</link>
+    <link>https://othlotech.github.io/OthloTech/index.xml</link>
     <description>Recent content on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2016 OthloTech. All rights reserved. Crafted with love</copyright>
     <lastBuildDate>Sat, 15 Oct 2016 00:24:57 +0900</lastBuildDate>
-    <atom:link href="http://www.othlo.tech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://othlotech.github.io/OthloTech/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>OthloEvent#2 @ エイチーム</title>
-      <link>http://www.othlo.tech/posts/OthloEvent2/</link>
+      <link>https://othlotech.github.io/OthloTech/posts/OthloEvent2/</link>
       <pubDate>Sat, 15 Oct 2016 00:24:57 +0900</pubDate>
       
-      <guid>http://www.othlo.tech/posts/OthloEvent2/</guid>
+      <guid>https://othlotech.github.io/OthloTech/posts/OthloEvent2/</guid>
       <description>
 
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -314,10 +314,10 @@ $
     
     <item>
       <title>OthloHack 2016</title>
-      <link>http://www.othlo.tech/events/OthloHack2016/</link>
+      <link>https://othlotech.github.io/OthloTech/events/OthloHack2016/</link>
       <pubDate>Thu, 13 Oct 2016 00:20:33 +0900</pubDate>
       
-      <guid>http://www.othlo.tech/events/OthloHack2016/</guid>
+      <guid>https://othlotech.github.io/OthloTech/events/OthloHack2016/</guid>
       <description>
 
 &lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&amp;gt;&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34;&gt;html/template&lt;/a&gt; library for
@@ -376,7 +376,7 @@ functions.&lt;/p&gt;
 &lt;p&gt;Each go template has a struct (object) made available to it. In hugo each
 template is passed either a page or a node struct depending on which type of
 page you are rendering. More details are available on the
-&lt;a href=&#34;http://www.othlo.tech/layout/variables&#34;&gt;variables&lt;/a&gt; page.&lt;/p&gt;
+&lt;a href=&#34;https://othlotech.github.io/OthloTech/layout/variables&#34;&gt;variables&lt;/a&gt; page.&lt;/p&gt;
 
 &lt;p&gt;A variable is accessed by referencing the variable name.&lt;/p&gt;
 
@@ -393,7 +393,7 @@ page you are rendering. More details are available on the
 
 &lt;p&gt;Go template ship with a few functions which provide basic functionality. The go
 template system also provides a mechanism for applications to extend the
-available functions with their own. &lt;a href=&#34;http://www.othlo.tech/layout/functions&#34;&gt;Hugo template
+available functions with their own. &lt;a href=&#34;https://othlotech.github.io/OthloTech/layout/functions&#34;&gt;Hugo template
 functions&lt;/a&gt; provide some additional functionality we believe
 are useful for building websites. Functions are called by using their name
 followed by the required parameters separated by spaces. Template
@@ -581,7 +581,7 @@ you want to inside of your templates.&lt;/p&gt;
 &lt;h2 id=&#34;using-content-page-parameters&#34;&gt;Using Content (page) Parameters&lt;/h2&gt;
 
 &lt;p&gt;In each piece of content you can provide variables to be used by the
-templates. This happens in the &lt;a href=&#34;http://www.othlo.tech/content/front-matter&#34;&gt;front matter&lt;/a&gt;.&lt;/p&gt;
+templates. This happens in the &lt;a href=&#34;https://othlotech.github.io/OthloTech/content/front-matter&#34;&gt;front matter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;An example of this is used in this documentation site. Most of the pages
 benefit from having the table of contents provided. Sometimes the TOC just
@@ -660,10 +660,10 @@ so, such as in this example:&lt;/p&gt;
     
     <item>
       <title>OthloHack 2016</title>
-      <link>http://www.othlo.tech/posts/OthloHack2016/</link>
+      <link>https://othlotech.github.io/OthloTech/posts/OthloHack2016/</link>
       <pubDate>Thu, 13 Oct 2016 00:20:33 +0900</pubDate>
       
-      <guid>http://www.othlo.tech/posts/OthloHack2016/</guid>
+      <guid>https://othlotech.github.io/OthloTech/posts/OthloHack2016/</guid>
       <description>
 
 &lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&amp;gt;&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34;&gt;html/template&lt;/a&gt; library for
@@ -722,7 +722,7 @@ functions.&lt;/p&gt;
 &lt;p&gt;Each go template has a struct (object) made available to it. In hugo each
 template is passed either a page or a node struct depending on which type of
 page you are rendering. More details are available on the
-&lt;a href=&#34;http://www.othlo.tech/layout/variables&#34;&gt;variables&lt;/a&gt; page.&lt;/p&gt;
+&lt;a href=&#34;https://othlotech.github.io/OthloTech/layout/variables&#34;&gt;variables&lt;/a&gt; page.&lt;/p&gt;
 
 &lt;p&gt;A variable is accessed by referencing the variable name.&lt;/p&gt;
 
@@ -739,7 +739,7 @@ page you are rendering. More details are available on the
 
 &lt;p&gt;Go template ship with a few functions which provide basic functionality. The go
 template system also provides a mechanism for applications to extend the
-available functions with their own. &lt;a href=&#34;http://www.othlo.tech/layout/functions&#34;&gt;Hugo template
+available functions with their own. &lt;a href=&#34;https://othlotech.github.io/OthloTech/layout/functions&#34;&gt;Hugo template
 functions&lt;/a&gt; provide some additional functionality we believe
 are useful for building websites. Functions are called by using their name
 followed by the required parameters separated by spaces. Template
@@ -927,7 +927,7 @@ you want to inside of your templates.&lt;/p&gt;
 &lt;h2 id=&#34;using-content-page-parameters&#34;&gt;Using Content (page) Parameters&lt;/h2&gt;
 
 &lt;p&gt;In each piece of content you can provide variables to be used by the
-templates. This happens in the &lt;a href=&#34;http://www.othlo.tech/content/front-matter&#34;&gt;front matter&lt;/a&gt;.&lt;/p&gt;
+templates. This happens in the &lt;a href=&#34;https://othlotech.github.io/OthloTech/content/front-matter&#34;&gt;front matter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;An example of this is used in this documentation site. Most of the pages
 benefit from having the table of contents provided. Sometimes the TOC just
@@ -1006,10 +1006,10 @@ so, such as in this example:&lt;/p&gt;
     
     <item>
       <title>FAQ</title>
-      <link>http://www.othlo.tech/faq/</link>
+      <link>https://othlotech.github.io/OthloTech/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/faq/</guid>
+      <guid>https://othlotech.github.io/OthloTech/faq/</guid>
       <description>
 
 &lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
@@ -1062,10 +1062,10 @@ so, such as in this example:&lt;/p&gt;
     
     <item>
       <title>OthloTech とは?</title>
-      <link>http://www.othlo.tech/about/</link>
+      <link>https://othlotech.github.io/OthloTech/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/about/</guid>
+      <guid>https://othlotech.github.io/OthloTech/about/</guid>
       <description>
 
 &lt;h1 id=&#34;othlotechとは&#34;&gt;OthloTechとは&lt;/h1&gt;
@@ -1137,19 +1137,19 @@ so, such as in this example:&lt;/p&gt;
     
     <item>
       <title>OthloTechメンバー</title>
-      <link>http://www.othlo.tech/member/</link>
+      <link>https://othlotech.github.io/OthloTech/member/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/member/</guid>
+      <guid>https://othlotech.github.io/OthloTech/member/</guid>
       <description></description>
     </item>
     
     <item>
       <title>お問い合わせ</title>
-      <link>http://www.othlo.tech/contact/</link>
+      <link>https://othlotech.github.io/OthloTech/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/contact/</guid>
+      <guid>https://othlotech.github.io/OthloTech/contact/</guid>
       <description>
 
 &lt;h3 id=&#34;お気軽にご質問ください&#34;&gt;お気軽にご質問ください&lt;/h3&gt;
